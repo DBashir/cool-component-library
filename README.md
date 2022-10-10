@@ -10,3 +10,11 @@ You can add this package to your own react project with the following:
 
 - Use your component as normal <Component />
 
+
+Technology used:
+React
+Typescript
+Babel 
+Jest
+Rollup
+
