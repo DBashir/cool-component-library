@@ -1,0 +1,33 @@
+1. Follow https://dev.to/alexeagleson/how-to-analyze-and-improve-your-create-react-app-production-build-4f34
+   Apply this to the cool component library (Webpack etc)
+
+2. Add git hooks with Husky
+
+3. Create a github action pipeline yaml 
+    - e2e tests which output mp4 video of failing e2e test
+    - look into netlify for auto preview of PRs
+    - auto deploy storybook to github pages url
+
+4. Code splitting
+
+5. Testing: UI, Custom Hooks, Mocks, Snapshots, Coverage
+
+
+
+
+
+
+
+TBC:
+1. Add docker script to build image
+2. Look into what Caddy is used for
+
+
+Components:
+
+Inputs
+Data Display
+Feedback
+Surfaces
+Navigation
+Layout
